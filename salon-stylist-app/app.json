@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "salon-stylist-app",
+    "slug": "salon-stylist-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "salonstylistapp",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE"
+      }
+    },
+    "web": {
+      "output": "single"
+    }
+  }
+}
